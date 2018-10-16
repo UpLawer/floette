@@ -172,7 +172,7 @@ var embed = new Discord.RichEmbed()
 
 .setColor(0x66ff66) 
 
-.setDescription('▸ Hello! My name is __**Floette**__! I am a special bot in order to entertain many people! My developers are: __**UpLawer#3161**, If you want to know all my public commands just type ``f&commands``!')
+.setDescription('▸ Hello! My name is __**Floette**__! I am a special bot in order to entertain many people! My developers are: __**UpLawer#3161**__, If you want to know all my public commands just type ``f&commands``!')
 
 .addField(':green_book: ▸ Go to invite me!', '[▸ Invite!](https://discordapp.com/api/oauth2/authorize?client_id=496094066748948484&permissions=8&scope=bot)')
 
