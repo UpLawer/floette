@@ -142,9 +142,7 @@ message.channel.send({embed});
 var embed = new Discord.RichEmbed()
 .setColor(0x66ff66) 
 .setDescription('My prefixes are: __**f&**__,  __**f!**__,  __**f#**__')
-.addField('Normal','__**avatar**__,  __**ping**__,  __**serverinfo**__,  __**userinfo**__,  __**userstatus**__,  __**poll**__')
-
-.addField('Extra','__**say**__,  __**esay**__,  __**8ball**__,  __**cat**__,  __**qrcode**__')
+.addField('Normal','__**avatar**__,  __**ping**__,  __**serverinfo**__,  __**userinfo**__,  __**userstatus**__,  __**poll**__,  __**say**__,  __**esay**__,  __**8ball**__,  __**cat**__,  __**qrcode**__')
 
 .addField('Entertainment','__**hug**__,  __**kiss**__,  __**slap**__,  __**pat**__,  __**tickle**__')
 
