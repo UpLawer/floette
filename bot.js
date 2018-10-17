@@ -156,6 +156,8 @@ var embed = new Discord.RichEmbed()
 
 .addField('Radio','__**electro**__,  __**trap**__,  __**anime**__')
 
+.addField('Server Support','[▹Link](https://discord.gg/Xj3uD8Z)')
+
 .setImage('https://i.imgur.com/EdJ2ELn.gif')
 
 .setThumbnail('https://i.imgur.com/A7esq6N.png')
