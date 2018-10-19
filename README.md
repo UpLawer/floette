@@ -1,2 +1,0 @@
-# floette
-Bot for fun
